@@ -3,17 +3,6 @@ import colorama,math
 from time import sleep
 colorama.init()
 """
-# W_WE NEED NETWORK CONNECTION_A to CONNECTION_B
-<--------------->               <-------------->
-|               |  CONNECTION   |              |
-|      <A>      |-------------->|     <B>      |
-|               |<--------------|              | 
-<--------------->               <-------------->
--_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
-CONNECTION_A as CLIENT          |              |               
-CONNECTION_B as google.com      |    ROUTER    |
-We need connect an router       |______________|          
-"""
 """
 1.This program can be change at the member only
 2.You can create your own member by coding
